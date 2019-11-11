@@ -29,13 +29,13 @@ class App extends React.Component {
               <DisplayNavBar/>
               <DisplayJumbotron/>
               <Layout>
-                <Switch> /* Switch allows us to switch between different routes */
-                  <Route exact path="/" component={Home} /> /*Match exactly so that we always go to the Home page first */
-                  <Route path="/Home" component={Home} /> /*I added another another route that allows us to click on a link from another page to go the Home page */
+                <Switch> {/* Switch allows us to switch between different routes */}
+                  <Route exact path="/" component={Home} /> {/*Match exactly so that we always go to the Home page first */}
+                  <Route path="/Home" component={Home} /> {/*I added another another route that allows us to click on a link from another page to go the Home page */}
                   <Route path="/PizzaBrands" component={PizzaBrands} />
                   <Route path="/PizzaPopCulture" component={PizzaPopCulture} />
                   <Route path ="/WorksCited" component={WorksCited} />
-                  <Route component={NoMatch} /> /* A 404 Resource Not Found error page */
+                  <Route component={NoMatch} /> {/* A 404 Resource Not Found error page */}
                 </Switch>
               </Layout>
               <DisplayBottomNav/>

@@ -4,7 +4,6 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Card from 'react-bootstrap/Card'
-import dominosPicOne from './assets/Dominos_pizza_from_Facebook.jpg';
 import spidermanWithPizza from './assets/Spiderman_Youtube_Pizza.jpg';
 import pizzaHutNfl from './assets/Pizza_Hut_and_NFL_pic.jpg';
 import teenageMutantNinjaTurtlesPizzaTime from './assets/Teenage_Mutant_Ninja_Turtles_With_Pizzas.jpeg';
