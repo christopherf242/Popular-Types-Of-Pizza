@@ -10,6 +10,7 @@ import { DisplayBottomNav } from './components/DisplayBottomNav.js';
 import { DisplayJumbotron } from './components/DisplayJumbotron.js';
 import { WorksCited } from './WorksCited.js';
 import styled from 'styled-components';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 //Notes(works cited) on Single Page website Application:
 // I added the website content in the Router classes so that page doesn't refresh. Also I put the
