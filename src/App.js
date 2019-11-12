@@ -21,6 +21,7 @@ class App extends React.Component {
       const StyledDiv = styled.div`
         .app {
           text-align: center;
+          background-color: DodgerBlue;
         }
       `;
       return (
