@@ -50,7 +50,7 @@ export class PizzaBrands extends React.Component {
                     <Card.Body>
                       <Card.Title><span className="boldBlueText">Popular Pizza Brands</span></Card.Title>
                       <Card.Text>
-                          Pizza Hut, Little Caesars, Dominos and Pizza Hut are some of the most popular brands of pizza.
+                          Pizza Hut, Dominos, Papa John's and Little Caesars are some of the most popular brands of pizza.
                           All of them make great pizza and their pizza are often seen on television.
                       </Card.Text>
                     </Card.Body>

@@ -34,7 +34,6 @@ export class WorksCited extends React.Component{
 
       .cited-source {
         text-align: left;
-        text-indent: 40px;
       }
 
       #centerWorksCited {
