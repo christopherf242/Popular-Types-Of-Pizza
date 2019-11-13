@@ -22,6 +22,8 @@ class App extends React.Component {
         .app {
           text-align: center;
           background-color: DodgerBlue;
+          margin: 0;
+          padding: 0;
         }
       `;
       return (

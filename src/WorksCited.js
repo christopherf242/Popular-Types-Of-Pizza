@@ -51,7 +51,7 @@ export class WorksCited extends React.Component{
           <br/>
           <Row>
             <div id="centerWorksCited">
-              <Col xs={12} sm={6}>
+              <Col xs={11} sm={6}>
                 <Card>
                   <Card.Img variant="top" src={closeUpPizzaPic}/>
                   <span>Here's a picture of some pizza up close. Image source: A User named Muffin posted it on the website named Pexels.</span>
