@@ -50,13 +50,12 @@ export class WorksCited extends React.Component{
         <Container>
           <br/>
           <Row>
-            <div id="centerWorksCited">
-              <Col xs={11} sm={6}>
+              <Col xs={12} sm={6}>
                 <Card>
                   <Card.Img variant="top" src={closeUpPizzaPic}/>
                   <span>Here's a picture of some pizza up close. Image source: A User named Muffin posted it on the website named Pexels.</span>
                   <Card.Body>
-                    <Card.Title id="works-cited-title">Works Cited</Card.Title>
+                    <Card.Title id="works-cited-title">Works Cited(Part 1)</Card.Title>
                     <Card.Text>
                       <div className="works-cited">
                         <p>AFGuidesHD. “Spider-Man PS4 - Pizza Time.” YouTube, YouTube, 22 Oct. 2018, https://www.youtube.com/watch?v=qh9yn9vGNzg.
@@ -71,6 +70,18 @@ export class WorksCited extends React.Component{
                                                       10 October 2014, https://www.businessinsider.com/the-most-popular-pizza-toppings-chart-2013-10. Accessed
                                                       7 November 2019.</p>
                         <p>Muffin, “Baked Pizza” Pexels, https://www.pexels.com/photo/baked-pizza-1653772/.</p>
+                      </div>
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </Col>
+              <Col xs={12} sm={6}>
+                <Card>
+                  <Card.Img variant="top" src={newYorkPizzaPicOne}/>
+                  <Card.Body>
+                    <Card.Title id="works-cited-title">Works Cited(Part 2)</Card.Title>
+                    <Card.Text>
+                      <div className="works-cited">
                         <p>“Picks for $6 - Mix & Match Pizza and Sides.” Papa John's, https://www.papajohns.com/order/menu/pizza/picks-for-6.
                          Accessed 1 November 2019.</p>
                         <p>(Note: I used 3 pictures) Pixabay, “Cheese Close Up Food. Vegetables Italian Pizza. Pepperoni Pizza” Pexels,
@@ -89,7 +100,6 @@ export class WorksCited extends React.Component{
                   </Card.Body>
                 </Card>
               </Col>
-            </div>
           </Row>
           <br/>
         </Container>

@@ -50,8 +50,8 @@ export class PizzaPopCulture extends React.Component {
                     <Card.Body>
                       <Card.Title><span className="boldBlueText">Pizza In Pop Culture</span></Card.Title>
                       <Card.Text>
-                        Home Alone, Teenage Mutant Ninja Turtles, Spiderman, and the NFL are some of the most popular examples in
-                        sports, media and entertainment that are often associated with pizza.
+                        Home Alone, Teenage Mutant Ninja Turtles, Spider-Man and the NFL are some of the most popular examples of
+                        sports, media and entertainment where pizza is often mentioned.
                       </Card.Text>
                     </Card.Body>
                   </Card>
