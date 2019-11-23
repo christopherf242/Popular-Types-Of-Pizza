@@ -64,6 +64,10 @@ export class WorksCited extends React.Component{
                          YouTube, YouTube, https://www.youtube.com/watch?v=tOK9l5uP06U&t=71s. </p>
                         <p>"Can't Resolve react-router-dom #231" GitHub,
                           https://github.com/react-bootstrap/react-router-bootstrap/issues/231 </p>
+                        <p>Domino's Pizza. "Domino's Pizza - Domino's Pizza Updated Their Cover Photo.", 19 Feb. 2019,
+                         https://www.facebook.com/Dominos/photos/p.10151174842294957/10151174842294957/?type=1&theater. Accessed 26 October 2019.</p>
+                        <p>Domino's Pizza. "Domino's Pizza - It's ⏰ for Thanks and Giving®!", 21 Oct. 2019,
+                          https://www.facebook.com/Dominos/photos/a.10150436932539957/10151270718859957/?type=3&theater. Accessed 26 October 2019.</p>
                         <p>Luce, Ivan De. “Pizza Hut Is Rebooting Its Iconic 'Red Roof' Logo with a Retro Design.” Business Insider,
                            Business Insider, 27 June 2019, https://www.businessinsider.com/pizza-hut-brings-back-old-logo-2019-6. Accessed 6 November 2019.</p>
                         <p>Lutz, Ashley. "Here's A Pie Chart Of The Most Popular Pizza Toppings" Business Insider, Business Insider,
@@ -87,7 +91,7 @@ export class WorksCited extends React.Component{
                         <p>(Note: I used 3 pictures) Pixabay, “Cheese Close Up Food. Vegetables Italian Pizza. Pepperoni Pizza” Pexels,
                          https://www.pexels.com/@pixabay. 30 October 2019.</p>
                         <p>"Pizza Hut - We're Ready for the NFL Draft, Are You?" Pizza Hut
-                        , https://www.facebook.com/pizzahutus/posts/were-ready-for-the-nfl-draft-are-you-/10155822457947415/. Accessed 26 October 2019</p>
+                        , https://www.facebook.com/pizzahutus/posts/were-ready-for-the-nfl-draft-are-you-/10155822457947415/. Accessed 26 October 2019.</p>
                         <p>SmileMakers, “Teenage Mutant Ninja Turtles Pin the Pizza Party Game - Birthday and Theme Party Supplies By SmileMakers.”
                          Walmart.com, https://www.walmart.com/ip/Teenage-Mutant-Ninja-Turtles-Pin
                          -the-Pizza-Party-Game-Birthday-and-Theme-Party-Supplies-By-SmileMakers/252694845. Accessed 1 November 2019.</p>
