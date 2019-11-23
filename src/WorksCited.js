@@ -73,6 +73,8 @@ export class WorksCited extends React.Component{
                         <p>Lutz, Ashley. "Here's A Pie Chart Of The Most Popular Pizza Toppings" Business Insider, Business Insider,
                                                       10 October 2014, https://www.businessinsider.com/the-most-popular-pizza-toppings-chart-2013-10. Accessed
                                                       7 November 2019.</p>
+                        <p>Mauro, Jeff. “True Chicago-Style Deep-Dish Pizza.”
+                         Food Network, https://www.foodnetwork.com/recipes/jeff-mauro/true-chicago-style-deep-dish-pizza-5612273. Accessed 30 October 2019.</p>
                         <p>Muffin, “Baked Pizza” Pexels, https://www.pexels.com/photo/baked-pizza-1653772/.</p>
                       </div>
                     </Card.Text>
