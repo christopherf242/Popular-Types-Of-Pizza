@@ -80,8 +80,8 @@ export class PizzaPopCulture extends React.Component {
                   <Card.Body>
                     <Card.Title><span className="boldBlueText">Spider-Man</span></Card.Title>
                     <Card.Text>
-                      In Spider-Man, Spider-Man also loves to have Pizza. In the newest Spider-Man game, Spider-Man takes a break
-                       from defeating villains by eating some pizza. In some of the older Spider-Man games, Spider-Man delivers
+                      Spider-Man always loves to have Pizza when he has the time. In the Spider-Man game for PS4(and PS5 in the Spider-Man: Miles Morales Ultimate Edition),
+                       Spider-Man takes a break from defeating villains by eating some pizza. In some of the older Spider-Man games like Spiderman 2 on Xbox and PS2, Spider-Man delivers
                        pizza as a fun mini game.
                     </Card.Text>
                   </Card.Body>
